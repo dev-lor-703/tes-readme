@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://electronjs.org/images/electron-logo.svg" width="120" alt="Electron Logo" />
+  <img src="https://www.vhv.rs/viewpic/iwihoT_react-native-logo-hd-png-download/#" width="120" alt="React Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/3840px-Vitejs-logo.svg.png" width="120" alt="React Logo" />
 </p>
 
 <p align="center">
