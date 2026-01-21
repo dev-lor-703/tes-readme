@@ -13,18 +13,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-v4-38BDF8?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-28-47848F?logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Web%20%7C%20Desktop-black" />
-  <img src="https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-28-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Web%20%7C%20Desktop-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-22C55E?style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="https://github.com/warmdrobe/rookwork-frontend">
-    <img src="https://img.shields.io/badge/GitHub-rookwork--frontend-181717?logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-rookwork--frontend-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/License-ISC-green" />
+  <img src="https://img.shields.io/badge/License-ISC-FACC15?style=for-the-badge" />
 </p>
 
 ## Decription
