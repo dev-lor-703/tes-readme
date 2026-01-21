@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://electronjs.org/images/electron-logo.svg" width="120" alt="Electron Logo" />
-  <img src="https://www.vhv.rs/viewpic/iwihoT_react-native-logo-hd-png-download/#" width="120" alt="React Logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/3840px-Vitejs-logo.svg.png" width="120" alt="React Logo" />
+  <img src="https://electronjs.org/images/electron-logo.svg" width="110" alt="Electron Logo" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="120" alt="React Logo" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://vitejs.dev/logo.svg" width="110" alt="Vite Logo" />
 </p>
 
 <p align="center">
