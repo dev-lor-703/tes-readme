@@ -45,7 +45,7 @@ yarn install
 
 ## Usage
 
-Running Browser (Web) and Electron (Desktop) concurrently - <b>recommended<b/><br/>
+Running Browser (Web) and Electron (Desktop) concurrently - **recommended**
 ```bash
 yarn dev
 ```
@@ -63,7 +63,7 @@ yarn start:electron
 
 ## Build 
 
-<b>Build browser (Web)<b/>
+**Build browser (Web)**
 ```bash
 yarn build:browser
 ```
@@ -72,12 +72,12 @@ Output:
 browser-app/dist
 ```
 
-<b>Build electron (Desktop)<b/>
+**Build electron (Desktop)**
 ```bash
 yarn build:electron
 ```
 
-<b>Build all<b/>
+**Build all**
 ```bash
 yarn build
 ```
