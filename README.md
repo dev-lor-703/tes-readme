@@ -3,7 +3,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="120" alt="React Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.6ea76c7c.svg" width="110" alt="Tailwind CSS Logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="110" alt="Tailwind CSS Logo" />
 </p>
 
 <p align="center">
