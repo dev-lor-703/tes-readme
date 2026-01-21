@@ -34,7 +34,7 @@ Electron will automatically build binaries suitable for each operating system.
 
 <b>Prerequisites</b>
 - [Node.js (LTS ≥ 18)](https://nodejs.org/en/download/)
-- [Yarn (Classic v1](https://classic.yarnpkg.com/en/docs/install)
+- [Yarn (Classic v1)](https://classic.yarnpkg.com/en/docs/install)
 - [Git](https://git-scm.com/downloads)
 
 ## Getting Started
