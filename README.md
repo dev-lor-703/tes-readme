@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  Frontend application for <b>Rookwork</b>, built with <br/>
-  <b>React + Vite + Tailwind CSS</b> for Web <br/>
+  Frontend application for <b>Rookwork</b>, built with 
+  <b>React + Vite + Tailwind CSS</b> for Web
   and <b>Electron</b> for Desktop.
 </p>
 
@@ -19,3 +19,12 @@
   <img src="https://img.shields.io/badge/Electron-28-47848F.svg" alt="Electron" />
   <img src="https://img.shields.io/badge/License-ISC-green.svg" alt="License" />
 </p>
+
+## Decription
+
+Supported Operating Systems: [Windown 10+](https://learn.microsoft.com/windows), [MacOS](https://www.apple.com/macos/), [Linux (Ubuntu / Debian / Arch / …)](https://www.kernel.org/)
+Electron will automatically build binaries suitable for each operating system.
+<b>Prerequisites</b>
+- [Node.js (LTS ≥ 18)](https://nodejs.org/en/download/)
+- [Yarn (Classic v1](https://classic.yarnpkg.com/en/docs/install))
+- [Git](https://git-scm.com/downloads)
