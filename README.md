@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://electronjs.org/images/electron-logo.svg" width="110" alt="Electron Logo" />
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://electronjs.org/images/electron-logo.svg" width="160" alt="Electron Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="120" alt="React Logo" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://vitejs.dev/logo.svg" width="110" alt="Vite Logo" />
 </p>
 
@@ -20,9 +20,19 @@
   <img src="https://img.shields.io/badge/License-ISC-green.svg" alt="License" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="36" alt="Yarn" />
+</p>
+
+
 ## Decription
 
 Supported Operating Systems: [Windown 10+](https://learn.microsoft.com/windows), [MacOS](https://www.apple.com/macos/), [Linux (Ubuntu / Debian / Arch / …)](https://www.kernel.org/)
+
 Electron will automatically build binaries suitable for each operating system.
 
 <b>Prerequisites</b>
