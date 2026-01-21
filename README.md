@@ -16,10 +16,10 @@
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron-28-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Web%20%7C%20Desktop-8B5CF6?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Web%20%7C%20Desktop-8B5CF6?style=for-the-badge" />
   <a href="https://github.com/warmdrobe/rookwork-frontend">
     <img src="https://img.shields.io/badge/GitHub-rookwork--frontend-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -97,5 +97,3 @@ yarn build
 - Tailwind CSS is preconfigured
 
 
-
-gured
