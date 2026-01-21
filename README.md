@@ -45,7 +45,7 @@ yarn install
 
 ## Usage
 
-Running Browser (Web) and Electron (Desktop) concurrently - <b>recommended<b/>
+Running Browser (Web) and Electron (Desktop) concurrently - <b>recommended<b/><br/>
 ```bash
 yarn dev
 ```
